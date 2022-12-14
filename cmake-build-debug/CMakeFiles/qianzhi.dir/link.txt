@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/qianzhi.dir/element.cpp.o CMakeFiles/qianzhi.dir/main.cpp.o -o qianzhi 

@@ -1,0 +1,3 @@
+/mnt/c/repos/pre_test/cmake-build-debug/CMakeFiles/qianzhi.dir
+/mnt/c/repos/pre_test/cmake-build-debug/CMakeFiles/edit_cache.dir
+/mnt/c/repos/pre_test/cmake-build-debug/CMakeFiles/rebuild_cache.dir
